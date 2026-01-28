@@ -1,10 +1,10 @@
 body {
     background-color: #8b00ff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 #titleText {
     color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
