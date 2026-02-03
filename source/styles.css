@@ -1,9 +1,9 @@
 body {
-    background-color: #8b00ff;
+    background-color: #f0c079;
 }
 
 #titleText {
-    color: antiquewhite;
+    color: rgb(247, 87, 87);
     display: flex;
     justify-content: center;
     align-items: center;
